@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Alawi+Masfar;Full+Stack+Developer+from+Yemen;Cybersecurity+Enthusiast;AI+%26+Machine+Learning+Explorer;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Alawi+Masfar;MSc+in+AI+%26+Cybersecurity;Building+explainable+security+tools;Full+Stack+Developer+from+Yemen" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -17,11 +17,22 @@
 
 ### About Me
 
-- 🎓 Studied Computer Science at the **University of ibn Toufil**, Kenitra
-- 🔭 Currently working on **Currency Conversion**
-- 💬 Ask me about **React, Vue, Spring Boot, Cybersecurity, AI**
+- 🎓 **MSc in Artificial Intelligence & Cybersecurity**, Université Ibn Tofail, Kenitra
+- 🛡️ I build security tools that use machine learning, with a focus on **explaining their decisions** and **evaluating them honestly**
+- 🔬 Research interests: detecting unknown attacks, robustness to adversarial attacks, verifiable and explainable alerts
+- 💬 Ask me about **Cybersecurity, AI, React, Vue, Spring Boot**
 - 📫 Reach me at **masfaralawibenahmed@gmail.com**
 - 🌍 From **Yemen** | Based in **Kenitra, Morocco**
+
+---
+
+### Featured Projects:
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🎓 **[ids-nlp-blockchain](https://github.com/AlawiAhmedDev/ids-nlp-blockchain)** | Master's thesis: *Towards a semantic and verifiable intrusion detection system*. Intrusion detection combined with NLP, with alerts made verifiable through a blockchain | Python · ML · NLP · Blockchain |
+| 🎣 **[phishguard](https://github.com/AlawiAhmedDev/phishguard)** | Phishing URL detector that explains each verdict and never visits the link. Trained on 200k URLs, evaluated on websites never seen in training | Python · scikit-learn · Flask |
+| 🔎 **[loghunter](https://github.com/AlawiAhmedDev/loghunter)** · [live demo](https://alawiahmeddev.github.io/loghunter/) | Blue-team tool that detects brute force, password spraying and web attacks in SSH and web server logs, mapped to MITRE ATT&CK | Python · SOC · MITRE ATT&CK |
 
 ---
 
@@ -29,6 +40,7 @@
 
 <div align="center">
 
+<!-- Replace each link below with your own profile URL, or delete the badge -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
@@ -115,7 +127,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlawiAhmedDev&theme=tokyonight&hide_border=true" width="70%"/>
+  <img src="https://streak-stats.demolab.com/?user=AlawiAhmedDev&theme=tokyonight&hide_border=true" width="70%"/>
 </div>
 
 ---
