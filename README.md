@@ -31,8 +31,9 @@
 | Project | What it does | Stack |
 |---|---|---|
 | 🎓 **[ids-nlp-blockchain](https://github.com/AlawiAhmedDev/ids-nlp-blockchain)** | Master's thesis: *Towards a semantic and verifiable intrusion detection system*. Intrusion detection combined with NLP, with alerts made verifiable through a blockchain | Python · ML · NLP · Blockchain |
-| 🎣 **[phishguard](https://github.com/AlawiAhmedDev/phishguard)** | Phishing URL detector that explains each verdict and never visits the link. Trained on 200k URLs, evaluated on websites never seen in training | Python · scikit-learn · Flask |
+| 🎣 **[phishguard](https://github.com/AlawiAhmedDev/phishguard)** · [live demo](https://alawiahmeddev.github.io/phishguard/) | Phishing URL detector that explains each verdict and never visits the link. Trained on 200k URLs, evaluated on websites never seen in training | Python · scikit-learn · Flask |
 | 🔎 **[loghunter](https://github.com/AlawiAhmedDev/loghunter)** · [live demo](https://alawiahmeddev.github.io/loghunter/) | Blue-team tool that detects brute force, password spraying and web attacks in SSH and web server logs, mapped to MITRE ATT&CK | Python · SOC · MITRE ATT&CK |
+| 🔐 **[lockbox](https://github.com/AlawiAhmedDev/lockbox)** | Encrypted command-line password vault: Argon2id key derivation, AES-256-GCM with envelope encryption and an authenticated header, plus a password audit with a k-anonymous breach check | Python · Cryptography |
 
 ---
 
@@ -41,7 +42,7 @@
 <div align="center">
 
 <!-- Replace each link below with your own profile URL, or delete the badge -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alawi-masfar)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
